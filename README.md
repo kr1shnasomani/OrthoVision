@@ -7,7 +7,7 @@ This project detects bone fractures from X-ray images using EfficientNetB3 for b
    pip install tensorflow numpy matplotlib opencv-python pillow scikit-learn imbalanced-learn
    ```
 
-2. Download the dataset folder
+2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays?rvi=1**)
 
 3. Copy the path of the dataset folder and paste it into the code
 
