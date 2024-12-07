@@ -3,7 +3,11 @@ This project detects bone fractures from X-ray images using EfficientNetB3 for b
 
 ## Execution Guide:
 1. Run the following command line in your terminal:
-   
+   ```
+   pip install tensorflow numpy matplotlib opencv-python pillow scikit-learn imbalanced-learn
+   ```
+
+2.    
 
 ## Overview:
 The provided code is for building and training a **bone fracture detection** model using deep learning techniques, specifically using a pre-trained EfficientNetB3 model. Here's an overview of the steps and functionalities in the code:
