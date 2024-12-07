@@ -7,7 +7,19 @@ This project detects bone fractures from X-ray images using EfficientNetB3 for b
    pip install tensorflow numpy matplotlib opencv-python pillow scikit-learn imbalanced-learn
    ```
 
-2.    
+2. Download the dataset folder
+
+3. Copy the path of the dataset folder and paste it into the code
+
+4. After running all the cells, it will create an additional file called `best_model.keras` (this file stores the model, you can download the model from the repositry and directly use it)
+
+5. Enter the path of the image you want in the last cell to check if it has the presence of fracture or not
+
+6. This is how the final output will look like:
+
+   ![image](https://github.com/user-attachments/assets/dbfb756a-20df-4dbf-8b2a-b6328f047636)
+
+   ![image](https://github.com/user-attachments/assets/030ddbb3-f425-4d0b-85f5-211a3de0247e)
 
 ## Overview:
 The provided code is for building and training a **bone fracture detection** model using deep learning techniques, specifically using a pre-trained EfficientNetB3 model. Here's an overview of the steps and functionalities in the code:
