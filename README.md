@@ -1,6 +1,9 @@
 # Bone Fracture Detection
+This project detects bone fractures from X-ray images using EfficientNetB3 for binary classification. It incorporates data augmentation, model evaluation and real-time prediction to accurately identify fractures, enhancing the reliability of diagnostic tools in medical imaging.
 
 ## Execution Guide:
+1. Run the following command line in your terminal:
+   
 
 ## Overview:
 The provided code is for building and training a **bone fracture detection** model using deep learning techniques, specifically using a pre-trained EfficientNetB3 model. Here's an overview of the steps and functionalities in the code:
