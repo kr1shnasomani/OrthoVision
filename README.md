@@ -11,7 +11,7 @@ This project detects bone fractures from X-ray images using EfficientNetB3 for b
 
 3. Copy the path of the dataset folder and paste it into the code
 
-4. After running all the cells, it will create an additional file called `best_model.keras` (this file stores the model, you can download the model from the repositry and directly use it)
+4. After running all the cells, it will create an additional file called `best_model.keras` (this file stores the model)
 
 5. Enter the path of the image you want in the last cell to check if it has the presence of fracture or not
 
