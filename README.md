@@ -22,7 +22,7 @@ This project detects bone fractures from X-ray images using EfficientNetB3 for b
    ![image](https://github.com/user-attachments/assets/030ddbb3-f425-4d0b-85f5-211a3de0247e)
 
 ## Overview:
-The provided code is for building and training a **bone fracture detection** model using deep learning techniques, specifically using a pre-trained EfficientNetB3 model. Here's an overview of the steps and functionalities in the code:
+The code is used for building and training a **bone fracture detection** model using deep learning techniques, specifically using a pre-trained EfficientNetB3 model. Here's an overview of the steps and functionalities in the code:
 
 1. **Import Libraries:** 
 The code imports several libraries for image processing, data handling, deep learning, and visualization, such as `NumPy`, `Matplotlib`, `OpenCV`, `Seaborn`, `TensorFlow`, and `scikit-learn`.
