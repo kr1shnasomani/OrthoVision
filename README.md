@@ -15,7 +15,13 @@ This project detects bone fractures from X-ray images using EfficientNetB3 for b
 
 5. Enter the path of the image you want in the last cell to check if it has the presence of fracture or not
 
-6. This is how the final output will look like:
+## Accuracy & Loss Over Epochs:
+
+![image](https://github.com/user-attachments/assets/0221dfa2-3fb2-47a9-a313-1004f1417c82)
+
+![image](https://github.com/user-attachments/assets/015c647c-03f4-40de-89e5-b6045963d727)
+
+## Model Predicition:
 
    ![image](https://github.com/user-attachments/assets/dbfb756a-20df-4dbf-8b2a-b6328f047636)
 
