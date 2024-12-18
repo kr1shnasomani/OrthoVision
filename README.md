@@ -1,4 +1,4 @@
-# Bone Fracture Detection
+<h1 align="center">OrthoVision</h1>
 This project detects bone fractures from X-ray images using EfficientNetB3 for binary classification. It incorporates data augmentation, model evaluation and real-time prediction to accurately identify fractures, enhancing the reliability of diagnostic tools in medical imaging.
 
 ## Execution Guide:
